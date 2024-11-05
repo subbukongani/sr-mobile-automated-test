@@ -1,0 +1,10 @@
+# Configuration file for Appium capabilities
+platformName: "Android"
+deviceName: "your device name"
+automationName: "UiAutomator2"
+appPackage: "com.example.com"
+appActivity: "com.exampl.com.activity"
+app: "your apk file location"
+appiumServerURL: "http://127.0.0.1:4723/wd/hub"
+noReset: true  # Prevent resetting app state between sessions
+fullReset: false  # Don't remove app before install
