@@ -112,6 +112,7 @@ MobileAutomationProject/
 │               └── automation/
 │                   ├── tests/
 │                   │   └── OnboardingTest.java
+│                   │   └── LoginScreenTest.java
 │                   └── BaseTest.java
 │
 └── resources/
@@ -133,5 +134,5 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 For inquiries or feedback, please reach out to:
 
-Your Name - your.email@example.com  
-Project Link: [GitHub Repository](https://github.com/your/repository)
+Your Name - subramanyam.kongani.dev@gmail.com 
+Project Link: [GitHub Repository](https://github.com/subbukongani/sr-mobile-automated-test/)
